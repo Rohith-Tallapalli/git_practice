@@ -1,0 +1,386 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "xyz",
+            "request": "launch",
+            "mainClass": "xyz",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "ods",
+            "request": "launch",
+            "mainClass": "ods",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "ems",
+            "request": "launch",
+            "mainClass": "ems",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "st",
+            "request": "launch",
+            "mainClass": "st",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "lists",
+            "request": "launch",
+            "mainClass": "lists",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "pactice",
+            "request": "launch",
+            "mainClass": "pactice",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "practice",
+            "request": "launch",
+            "mainClass": "practice",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "inter_thread",
+            "request": "launch",
+            "mainClass": "inter_thread",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "swiggy",
+            "request": "launch",
+            "mainClass": "swiggy",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "songg",
+            "request": "launch",
+            "mainClass": "songg",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "song",
+            "request": "launch",
+            "mainClass": "song",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "multithread",
+            "request": "launch",
+            "mainClass": "multithread",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "mm",
+            "request": "launch",
+            "mainClass": "mm",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "ex",
+            "request": "launch",
+            "mainClass": "ex",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "file_reader",
+            "request": "launch",
+            "mainClass": "file_reader",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "str",
+            "request": "launch",
+            "mainClass": "str",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "multi",
+            "request": "launch",
+            "mainClass": "multi",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "reverse",
+            "request": "launch",
+            "mainClass": "reverse",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "eo",
+            "request": "launch",
+            "mainClass": "eo",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "larger",
+            "request": "launch",
+            "mainClass": "larger",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "arrayss",
+            "request": "launch",
+            "mainClass": "arrayss",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "arr",
+            "request": "launch",
+            "mainClass": "arr",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "example",
+            "request": "launch",
+            "mainClass": "example",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "anonymous",
+            "request": "launch",
+            "mainClass": "anonymous",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "inheritance",
+            "request": "launch",
+            "mainClass": "inheritance",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "nested",
+            "request": "launch",
+            "mainClass": "nested",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "interr",
+            "request": "launch",
+            "mainClass": "interr",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "inter",
+            "request": "launch",
+            "mainClass": "inter",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "inter_clg",
+            "request": "launch",
+            "mainClass": "inter_clg",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "travels",
+            "request": "launch",
+            "mainClass": "travels",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "rent",
+            "request": "launch",
+            "mainClass": "rent",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "cons",
+            "request": "launch",
+            "mainClass": "cons",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "atm",
+            "request": "launch",
+            "mainClass": "atm",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "zepto",
+            "request": "launch",
+            "mainClass": "zepto",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "object2",
+            "request": "launch",
+            "mainClass": "object2",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "object1",
+            "request": "launch",
+            "mainClass": "object1",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "methods",
+            "request": "launch",
+            "mainClass": "methods",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "rohith",
+            "request": "launch",
+            "mainClass": "oops.rohith",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "dog",
+            "request": "launch",
+            "mainClass": "oops.dog",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "Person",
+            "request": "launch",
+            "mainClass": "oops.Person",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "oops1",
+            "request": "launch",
+            "mainClass": "oops.oops1",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "person",
+            "request": "launch",
+            "mainClass": "oops.person",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "stmnts",
+            "request": "launch",
+            "mainClass": "stmnts",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "triangle",
+            "request": "launch",
+            "mainClass": "triangle",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "revpattern",
+            "request": "launch",
+            "mainClass": "revpattern",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "patterns",
+            "request": "launch",
+            "mainClass": "patterns",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "fibinoc",
+            "request": "launch",
+            "mainClass": "fibinoc",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "fact",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "rtri",
+            "request": "launch",
+            "mainClass": "rtri",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "prime",
+            "request": "launch",
+            "mainClass": "prime",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "sumdigit",
+            "request": "launch",
+            "mainClass": "sumdigit",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "armstrong",
+            "request": "launch",
+            "mainClass": "armstrong",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "revnum",
+            "request": "launch",
+            "mainClass": "revnum",
+            "projectName": "Java-TS_618f37ae"
+        },
+        {
+            "type": "java",
+            "name": "loopss",
+            "request": "launch",
+            "mainClass": "loopss",
+            "projectName": "Java-TS_618f37ae"
+        }
+    ]
+}
